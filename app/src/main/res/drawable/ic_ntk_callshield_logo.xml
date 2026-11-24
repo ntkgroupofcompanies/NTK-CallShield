@@ -1,0 +1,49 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Symmetrical Geometric Shield -->
+    <path
+        android:pathData="M54,14 L84,25.5 C86,26.3 87,28.1 87,30.2 L87,52.5 C87,72.5 72.8,88.2 54,95 C35.2,88.2 21,72.5 21,52.5 L21,30.2 C21,28.1 22,26.3 24,25.5 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="22"
+                android:startY="18"
+                android:endX="86"
+                android:endY="90"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#FF0EA5A4" />
+                <item android:offset="1.0" android:color="#FF2DD4BF" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Subtle inner shield highlight border -->
+    <path
+        android:pathData="M54,17.5 L81.5,28 L81.5,52.5 C81.5,70.2 69.5,84 54,90.4 C38.5,84 26.5,70.2 26.5,52.5 L26.5,28 Z"
+        android:strokeWidth="1.5"
+        android:strokeColor="#66FFFFFF"
+        android:fillColor="#00000000" />
+
+    <!-- Minimalist Phone Handset Silhouette -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M41.2,40.5 C42.4,39.3 44.3,39.3 45.5,40.6 L48.3,43.8 C49.3,44.9 49.3,46.6 48.2,47.7 L46.6,49.3 C48.2,52.8 51.2,55.8 54.7,57.4 L56.3,55.8 C57.4,54.7 59.1,54.7 60.2,55.7 L63.4,58.5 C64.7,59.7 64.7,61.6 63.5,62.8 L61.5,64.8 C59.6,66.7 56.8,67.3 54.3,66.3 C46.4,63.1 40.9,57.6 37.7,49.7 C36.7,47.2 37.3,44.4 39.2,42.5 Z" />
+
+    <!-- Two Protective Signal Arcs -->
+    <path
+        android:pathData="M57,41.5 A10.5,10.5 0 0,1 67.5,52"
+        android:strokeWidth="2.8"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+    <path
+        android:pathData="M57,35 A17,17 0 0,1 74,52"
+        android:strokeWidth="2.8"
+        android:strokeColor="#CCFFFFFF"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+</vector>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">NTK CallShield</string>
+    <string name="play_store_title">NTK CallShield: Caller ID</string>
+    <string name="app_tagline">Know before you answer.</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_calls">Calls</string>
+    <string name="nav_check">Check</string>
+    <string name="nav_contacts">Contacts</string>
+    <string name="nav_settings">Settings</string>
+    <string name="shield_active">NTK CallShield is Active</string>
+    <string name="shield_paused">Protection is Paused</string>
+    <string name="offline_only_badge">Private Offline Mode</string>
+    <string name="hybrid_intel_badge">Smart Cloud + Offline</string>
+    <string name="test_lab_title">Test My Shield</string>
+    <string name="after_call_title">Call Summary</string>
+    <string name="pin_lock_title">NTK CallShield Locked</string>
+    <string name="pin_lock_subtitle">Enter your 4-digit security PIN to unlock</string>
+    <string name="cd_open_test_lab">Open Test My Shield Simulator</string>
+    <string name="cd_open_dialpad">Open Smart Dialpad</string>
+    <string name="cd_back">Navigate back</string>
+    <string name="cd_copy_otp">Copy code</string>
+</resources>

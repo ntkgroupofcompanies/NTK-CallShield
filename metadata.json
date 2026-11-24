@@ -1,0 +1,6 @@
+{
+  "name": "NTK CallShield",
+  "description": "NTK CallShield: Caller ID — Know before you answer. Ad-free, novice-friendly Caller ID, Automated Spam Blocker, Smart SMS Shield, and Privacy-First Phone Intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
